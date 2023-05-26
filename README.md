@@ -20,14 +20,14 @@ Investigate on the various categories of tools as follows:
 
 Open terminal and try execute some kali linux commands
 
-## PROGRAM:
+## EXECUTION STEPS AND ITS OUTPUT:
 
-Find out the ip address of the attackers system
+
 ## OUTPUT:
 
 
 
-Invoke msfconsole:
+
 ## OUTPUT:
 
 
